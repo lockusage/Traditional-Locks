@@ -1,0 +1,9 @@
+*.so
+*.o
+MCS-Lock/test-lock
+RW-Lock/test-lock
+Spinlock/test-lock
+Ticket-Lock/test-lock
+K42-Lock/test-lock
+Mutex/test-lock
+*.dSYM
